@@ -27,6 +27,6 @@ public class CalculadoraFactura {
 
         mostrarTotal();
         mostrarDescuento();
-
+    }
 private void mostrarDescuento() {}
-private void mostrarTotal() {}       
+private void mostrarTotal() {}     
